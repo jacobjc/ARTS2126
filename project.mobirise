@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jacob Christiansen - School",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2688,11 +2688,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "sneOxPNaNe",
+          "_anchor": "menu1-aq",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-aq"
+          "_params": {}
         },
         {
           "alias": false,
@@ -2709,11 +2709,11 @@
           "_sourceTheme": "mobirise4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><b>\n                    Personality Quiz:</b> Alter Ego</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sneOxQ24GT",
+          "_anchor": "content4-ar",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-ar"
+          "_params": {}
         },
         {
           "alias": false,
@@ -2730,13 +2730,13 @@
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>\n</b><b style=\"font-size: 1.1rem;\">1. Full name &amp; Gender?\t</b><span style=\"font-size: 1.1rem;\">J.J. Crossman, Male</span><b style=\"font-size: 1.1rem;\">&nbsp;</b></p><p><b>2. Species? \t\t\t</b>Human\n</p><p><b>3. Zodiac Sign?    \t\t</b>Scorpio\n</p><p><b>4. 3 fears?\t\t\t</b>Crowded Places, Water, Government<b>\n</b></p><p><b>5. 3 things I love?    \t\t</b>Heavy Metal, Seafood, Indie Fashion<b>\n</b></p><p><b>6. 4 turn ons?    \t\t</b>Colored Hair, Piercings, Short Haircuts, Strong Physique<b>\n</b></p><p><b>7. 4 turn offs?</b>\t\t\tBlondes, Short Height, No Makeup, Extroverts\n</p><p><b>8. Best friend?    \t\t</b>Doesn’t have one<b>\n</b></p><p><b>9. Sexual orientation?    \t</b>Straight\n</p><p><b>10. Height?    \t\t\t</b>5’ 5”\n</p><p><b>11. What do I miss the most?\t</b>The 90s\n</p><p><b>12. Favorite color?     \t\t</b>Black\n</p><p><b>13. My current crush?</b>    \tThis goth chick at the coffee shop</p><p><b>14. Favorite quote?&nbsp; </b>“You either die a hero, or live long enough to see yourself become the villain.”\n</p><p><b>15. Favorite place?    \t\t</b>LA\n</p><p><b>16. Favorite music?     \t</b>Heavy and punk metal\n</p><p><b>17. Favorite Food?     \t\t</b>Pulled Pork\n</p><p><b>18. Eye color?\t\t\t</b>Dark Brown\n</p><p><b>19. Hair, fur, scales or skin color?\t</b>Pasty White\n</p><p><b>20. Style?     \t\t\t\t</b>Doesn’t give a f***\n</p><p><b>21. Last book I read?\t\t\t</b>The Dirt\n</p><p><b>22. Have I ever kissed that last person I texted?\t</b>Yes\n</p><p><b>23. Someone I love?\t\t\t\t\t</b>Myself\n</p><p><b>24. Current relationship status?     \t\t\t</b>Single\n</p><p><b>25. Relationship with my parents?</b>\t\t\tNon-existent\n</p><p><b>26. Favorite holiday.&nbsp;&nbsp;</b>Halloween\n</p><p><b>27. Political standing.     \t\t\t\t</b>Anti-government\n</p><p><b>28. Tattoos I have.\t\t\t\t\t</b>Angel wings on my back\n</p><p><b>29. Tattoos I want.    \t\t\t\t\t</b>Full sleeves \n</p><p><b>30. Last person I hugged. </b>Chick from that&nbsp;one-night stand\n</p><p><b>31. What I did during quarantine.\t\t\t</b>Learn the bass guitar</p><p><b>32. How long does it take me to get ready?     \t</b>A while...\n</p><p><b>33. Where am I right now?\t\t\t\t</b>In my apartment<b>\n</b></p><p><b>34. My main addiction?\t\t\t\t</b>Cocaine\n, I guess</p><p><b>35. My profession?\t\t\t\t\t</b>Restaurant Management\n</p><p><b>36. My education?\t\t\t\t\t</b>High school\n</p><p><b>37. Where I grew up?</b>\t\t\t\t\tLA\n</p><p><b>38. Best 2 personality traits?\t\t\t\t</b>Bada$$, Knows when to speak up\n</p><p><b>39. 2 worst personality traits?\t\t\t\t</b>Addiction, not very relatable\n</p><p><b>40. What I love most about myself?\t\t\t</b>My taste\n</p><p><b>41. What I love most about my friends?\t\t</b>They get me\n</p><p><b>42. What my friends love most about me?</b>\t\tI get them\n</p><p><b>43. How do I feel right now?\t\t\t\t</b>Pissed\n</p><p><b>44. My Religion?\t\t\t\t\t</b>None\n</p><p><b>45. My pet(s)?</b> A python named Pete\n</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>\n</b><b style=\"font-size: 1.1rem;\">1. Full name &amp; Gender?\t</b><span style=\"font-size: 1.1rem;\">J.J. Crossman, Male</span><b style=\"font-size: 1.1rem;\">&nbsp;</b></p><p><b>2. Species? \t\t\t</b>Human\n</p><p><b>3. Zodiac Sign?    \t\t</b>Scorpio\n</p><p><b>4. 3 fears?\t\t\t</b>Crowded Places, Water, Government<b>\n</b></p><p><b>5. 3 things I love?    \t\t</b>Heavy Metal, Seafood, Indie Fashion<b>\n</b></p><p><b>6. 4 turn ons?    \t\t</b>Colored Hair, Piercings, Short Haircuts, Strong Physique<b>\n</b></p><p><b>7. 4 turn offs?</b>\t\t\tBlondes, Short Height, No Makeup, Extroverts\n</p><p><b>8. Best friend?    \t\t</b>Doesn’t have one<b>\n</b></p><p><b>9. Sexual orientation?    \t</b>Straight\n</p><p><b>10. Height?    \t\t\t</b>5’ 5”\n</p><p><b>11. What do I miss the most?\t</b>The 90s\n</p><p><b>12. Favorite color?     \t\t</b>Black\n</p><p><b>13. My current crush?</b>    \tThis goth chick at the coffee shop</p><p><b>14. Favorite quote?&nbsp; </b>“You either die a hero, or live long enough to see yourself become the villain.”\n</p><p><b>15. Favorite place?    \t\t</b>LA\n</p><p><b>16. Favorite music?     \t</b>Heavy and punk metal\n</p><p><b>17. Favorite Food?     \t\t</b>Pulled Pork\n</p><p><b>18. Eye color?\t\t\t</b>Dark Brown\n</p><p><b>19. Hair, fur, scales or skin color?\t</b>Pasty White\n</p><p><b>20. Style?     \t\t\t\t</b>Doesn’t give a f***\n</p><p><b>21. Last book I read?\t\t\t</b>The Dirt\n</p><p><b>22. Have I ever kissed that last person I texted?\t</b>Yes\n</p><p><b>23. Someone I love?\t\t\t\t\t</b>Myself\n</p><p><b>24. Current relationship status?     \t\t\t</b>Single\n</p><p><b>25. Relationship with my parents?</b>\t\t\tNon-existent\n</p><p><b>26. Favorite holiday.&nbsp;&nbsp;</b>Halloween\n</p><p><b>27. Political standing.     \t\t\t\t</b>Anti-government\n</p><p><b>28. Tattoos I have.\t\t\t\t\t</b>Angel wings on my back\n</p><p><b>29. Tattoos I want.    \t\t\t\t\t</b>Full sleeves \n</p><p><b>30. Last person I hugged. </b>Chick from that&nbsp;one-night stand\n</p><p><b>31. What I did during quarantine.\t\t\t</b>Learn the bass guitar</p><p><b>32. How long does it take me to get ready?     \t</b>A while...\n</p><p><b>33. Where am I right now?\t\t\t\t</b>In my apartment<b>\n</b></p><p><b>34. My main addiction?\t\t\t\t</b>Cocaine\n, I guess</p><p><b>35. My profession?\t\t\t\t\t</b>Restaurant Management\n</p><p><b>36. My education?\t\t\t\t\t</b>High school\n</p><p><b>37. Where I grew up?</b>\t\t\t\t\tLA\n</p><p><b>38. Best 2 personality traits?\t\t\t\t</b>Badass, Knows when to speak up\n</p><p><b>39. 2 worst personality traits?\t\t\t\t</b>Addiction, not very relatable\n</p><p><b>40. What I love most about myself?\t\t\t</b>My taste\n</p><p><b>41. What I love most about my friends?\t\t</b>They get me\n</p><p><b>42. What my friends love most about me?</b>\t\tI get them\n</p><p><b>43. How do I feel right now?\t\t\t\t</b>Pissed\n</p><p><b>44. My Religion?\t\t\t\t\t</b>None\n</p><p><b>45. My pet(s)?</b> A python named Pete\n</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "sneOxQstYa",
+          "_anchor": "content1-at",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-at"
+          "_params": {}
         },
         {
           "alias": false,
@@ -2759,11 +2759,11 @@
           "_sourceTheme": "mobirise4",
           "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Full width intro with adjustable height, background image and a color overlay. Click any text to edit or style it.\n                </p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-black-outline\" href=\"blog.html\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-left mbr-iconfont mbr-iconfont-btn\"></span>Back to Blog</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_cid": "sneOxQEyIv",
+          "_anchor": "header16-au",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header16-au"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2852,11 +2852,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "sneOxQRoe5",
+          "_anchor": "footer7-av",
           "_protectedParams": [],
           "_global": true,
           "_once": true,
-          "_params": {},
-          "_anchor": "footer7-av"
+          "_params": {}
         }
       ]
     }
