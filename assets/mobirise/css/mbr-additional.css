@@ -4427,8 +4427,43 @@ section.lazy-placeholder:after {
   color: #767676;
   text-align: left;
 }
-.cid-soEgxj9cWP {
+.cid-soJZrm5zKb {
   padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+.cid-soJZrm5zKb .line {
+  background-color: #efefef;
+  color: #efefef;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-soJZrm5zKb .section-text {
+  padding: 2rem 0;
+}
+.cid-soJZrm5zKb .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-soJZrm5zKb .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-soJZwF0diP {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
+}
+.cid-soJZwF0diP .mbr-text,
+.cid-soJZwF0diP blockquote {
+  color: #767676;
+}
+.cid-soJZwF0diP .mbr-text {
+  color: #ffffff;
+}
+.cid-soEgxj9cWP {
+  padding-top: 0px;
   padding-bottom: 15px;
   background-color: #232323;
 }
