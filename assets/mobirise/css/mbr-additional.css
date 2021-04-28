@@ -1719,6 +1719,35 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/mbr-1.jpeg");
 }
+.cid-svV1LTmoZQ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/image-1699x953.jpg");
+}
+@media (min-width: 992px) {
+  .cid-svV1LTmoZQ .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-svV1LTmoZQ .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-svV1LTmoZQ .mbr-text {
+    text-align: center;
+  }
+}
+.cid-svV1LTmoZQ H1 {
+  color: #ffffff;
+  text-align: right;
+}
+.cid-svV1LTmoZQ .mbr-text,
+.cid-svV1LTmoZQ .mbr-section-btn {
+  color: #ffffff;
+  text-align: right;
+}
 .cid-sv4IolLdha {
   padding-top: 30px;
   padding-bottom: 30px;
